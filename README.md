@@ -82,3 +82,23 @@ Este estudo se conecta diretamente com o desenvolvimento de soluções tecnológ
 ## 🧠 Conclusão
 
 O uso do NotebookLM demonstrou como a Inteligência Artificial pode ser utilizada como ferramenta de aprendizado ativo, permitindo organizar conhecimento, extrair insights e estruturar análises sobre problemas sociais complexos.
+
+---
+
+## 📎 Acesso ao projeto
+
+Repositório disponível em:
+https://github.com/marcelardossantos/vidas-invisiveis-notebooklm
+
+---
+
+## 🧠 Uso do NotebookLM
+
+Este projeto foi desenvolvido com apoio do NotebookLM, utilizado para:
+
+- análise das fontes
+- extração de dados
+- geração de insights
+- organização do conhecimento
+
+O NotebookLM foi utilizado como ferramenta de aprendizado ativo, auxiliando na construção do mini guia de estudo e na engenharia de prompts.
